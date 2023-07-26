@@ -5,15 +5,6 @@
 
 ## Tutorial
 
-  <div align="center">
-  <a href="https://www.youtube.com/watch?v=F_mXVI8Dalg">
-    <img 
-          src="https://img.youtube.com/vi/F_mXVI8Dalg/0.jpg" 
-          alt="Everything Is AWESOME" 
-          style="width:100%;">
-  </a>
-</div>
-
 ## Installation
 
 ### Client
